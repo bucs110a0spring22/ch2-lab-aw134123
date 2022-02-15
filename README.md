@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- Program part A tells me how much I am wasting on college since I don't work hard enough. Part B tells me where I got food poisoning.
+ Program part A tells me how much I am wasting on college since I don't work hard enough. Part B tells me where I got food poisoning from.
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
@@ -19,7 +19,7 @@ Grace days remaining: 5/5
  none
 
 ## REFERENCES:
- my experience with the various dining halls at Binghamton (outsourced to Sodexo)
+ my experience with the various dining halls at Binghamton whose operation is outsourced to Sodexo
 
 ## MISCELLANEOUS COMMENTS:
  dont use the water dispensers at the dining halls 
