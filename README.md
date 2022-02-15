@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Program part A tells me how much I am wasting on college since I don't work hard enough. Part B tells me where I got food poisoning.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ my experience with the various dining halls at Binghamton (outsourced to Sodexo)
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ dont use the water dispensers at the dining halls 
